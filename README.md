@@ -2,7 +2,7 @@
 Trading is a java project to deal with trade enrichment.
 
 ## Repository
-checkout the project from github.
+checkout the project from github https://github.com/rajkumaran80/trading.
 
 ## Prerequisite
 - JAVA 17
